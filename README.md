@@ -1,1 +1,3 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+<a href="https://games-in-the-dungeon.herokuapp.com/"><h1>Games in the Dungeon</h1></a>
+
+<h4>A web based application where users can post boardgames to be rented.</h4>
